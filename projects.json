@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Revista Literarte",
+    "image": "./assets/images/Revista Literarte.jpeg",
+    "link": "https://github.com/Amanda-Issa/Revista-Literarte/blob/main/REVISTA%20LITERARTE.pdf"
+  },
+  {
+    "name": "Produções textuais - Clube de Remo",
+    "image": "./assets/images/capa - r.jpeg",
+    "link": "https://github.com/Amanda-Issa/Produ-es-textuais---Clube-de-Remo/blob/main/Clube%20de%20Remo.pdf"
+  },
+  {
+    "name": "Longform - Cicatrizes Invisíveis",
+    "image": "./assets/images/capa - b.jpeg",
+    "link": "https://isismadureira2011.wixsite.com/cicatrizes-invis-vei"
+  },
+  {
+    "name": "Boletins para rádios",
+    "image": "./assets/images/Boletins para rádios.jpeg",
+    "link": "https://github.com/Amanda-Issa/Boletins-para-Radios"
+  },
+  {
+    "name": "Gravação de nota - Secretaria de Comunicação do Estado",
+    "image": "./assets/images/Gravação de nota.jpeg",
+    "link": "https://www.comunicacao.ba.gov.br/2024/01/area-de-imprensa/audio-integracao-entre-universidade-e-escolas-estaduais-fortalece-a-educacao-basica/"
+  },
+  {
+    "name": "Gravação de nota - Secretaria de Comunicação do Estado",
+    "image": "./assets/images/Gravação de nota.jpeg",
+    "link": "https://www.comunicacao.ba.gov.br/2023/12/area-de-imprensa/audios/audio-fontes-renovaveis-representam-93-da-capacidade-instalada-para-geracao-de-energia-na-bahia/"
+  }
+]
